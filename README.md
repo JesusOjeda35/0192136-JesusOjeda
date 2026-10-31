@@ -1,4 +1,4 @@
-# CODIGO-nombre-apellido-iac-aws
+# 0192136-jesus-ojeda-iac-aws
 
 Proyecto del taller de Cloud Computing (Ingeniería de Sistemas – UFPSO).
 
@@ -15,8 +15,8 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
+- Nombre: JESUS ARMANDO OJEDA LOBO
+- Código: 0192135
 - Docente: Wilder Andrés Duarte Neira
 
 ## Sitio web desplegado
